@@ -35,7 +35,7 @@ zensical build      # site/ に静的ファイルを生成
 
 ## アイコン
 
-ロゴとアイコンは [Lucide](https://lucide.dev) の `history` アイコンをもとに配色を変えたものです（ISC License, Copyright (c) Lucide Icons and Contributors。全文は [LICENSE-LUCIDE](LICENSE-LUCIDE)）。
+ロゴとアイコンは [Lucide](https://lucide.dev) の [`rotate-ccw-clock`](https://lucide.dev/icons/rotate-ccw-clock) アイコンをもとに配色を変えたものです（ISC License, Copyright (c) Lucide Icons and Contributors。全文は [LICENSE-LUCIDE](LICENSE-LUCIDE)）。
 
 - サイト用（`docs/assets/logo.svg`）：背景は透明、矢印 `#b91c1c`、針 `#6b7280`
 - サイト用の大きいサイズ（`branding/logo-512.svg` / `logo-512.png`）：上と同じデザインで 512×512、背景透明
