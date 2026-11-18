@@ -28,10 +28,6 @@ zensical build      # site/ に静的ファイルを生成
 
 ページを追加したら、`zensical.toml` の `nav` にも追記してください。
 
-## 公開設定
-
-リポジトリの Settings → Pages → Build and deployment → Source を **GitHub Actions** にしてください。
-
 ## ライセンス
 
 - 本文（`docs/` 以下の文章・図）: [CC BY 4.0](LICENSE)
