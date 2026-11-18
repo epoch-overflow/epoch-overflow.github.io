@@ -2,7 +2,7 @@
 
 2038年問題をはじめとする、時刻表現の桁あふれ問題についての日本語情報サイトのソースです。
 
-公開URL: https://epoch-overflow.github.io/
+公開URL: <https://epoch-overflow.github.io/>
 
 ## ローカルでの確認
 
@@ -14,7 +14,7 @@ zensical build      # site/ に静的ファイルを生成
 
 ## 構成
 
-```
+```text
 .
 ├── zensical.toml              # サイト設定（ナビゲーションもここで定義）
 ├── docs/                      # 本文（Markdown）
