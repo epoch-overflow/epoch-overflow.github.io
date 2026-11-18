@@ -27,6 +27,8 @@ nav = [
 ]
 
 [project.theme]
+logo = "assets/logo.svg"
+favicon = "assets/logo.svg"
 # サイト言語。検索の言語（日本語の分かち書き）もこの設定から決まる。
 language = "ja"
 features = [

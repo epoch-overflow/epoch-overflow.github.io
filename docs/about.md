@@ -13,4 +13,6 @@
 - サイトの本文：[クリエイティブ・コモンズ 表示 4.0 国際（CC BY 4.0）](https://creativecommons.org/licenses/by/4.0/deed.ja)
 - サイトを構成するコード（設定ファイル、スクリプトなど）：BSD-2-Clause
 
+サイトのロゴは [Lucide](https://lucide.dev) のアイコン（ISC License）をもとに作成しています。
+
 他から引用した図表などは、それぞれの権利者に権利があり、上記ライセンスの対象外です。
